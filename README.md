@@ -1,6 +1,6 @@
 #SOBRE LO QUE ME GUSTA:
 
-![alt text](https://cdn.pixabay.com/photo/2016/11/15/07/09/photo-manipulation-1825450__340.jpg)
+![alt text](https://cdn.pixabay.com/photo/2012/06/19/10/32/owl-50267_960_720.jpg)
 
 - Me gusta jugar chess😁
 - Fútbol😊
