@@ -16,5 +16,3 @@
 - Python
 - C++
 - JavaScript
-:+1:
-:-1:
