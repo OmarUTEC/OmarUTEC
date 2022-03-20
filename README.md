@@ -3,8 +3,6 @@
 ### Sobre mí
 - 👋Soy **Javier Chavarria** 😎
 - 📖Estudiante de la carrera de **CS** en **UTEC** 😊
-- ✔Actualemnte estoy en el **primer** ciclo 😁
-
 ### Pasatiempos e intereses
 - 👊Participar en torneos online de **ajedrez**♟♟
 - 🚏Escuchar **música electrónica**🎧
