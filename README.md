@@ -1,4 +1,4 @@
-## Hi, I'm Omar Chavarria, a Computer Sciencie at UTEC!
+## Hola soy Omar, estudiante de la carrera de Ciencias de la Computación en UTEC!
 ![alt text](https://cdn.pixabay.com/photo/2012/06/19/10/32/owl-50267_960_720.jpg)
 
 <div align="center">
