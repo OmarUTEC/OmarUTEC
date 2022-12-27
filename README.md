@@ -29,3 +29,4 @@
 - 🚏Escuchar **música electrónica**🎧
 - 💻Aprender más sobre el desarollo **web**💻
 
+![Snake animation](https://github.com/OmarUTEC/OmarUTEC/blob/output/github-contribution-grid-snake.svg)
