@@ -1,3 +1,8 @@
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=196209&width=435&lines=Hello+Fellow+%3C%2FDevelopers%3E" alt="Typing SVG" /></a>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Omar Chavarria</h1>
 <h3 align="center">A passionate frontend & backend developer from Perú</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -14,6 +19,7 @@
 - ♟️ I'm a **Chess Player**
 
 - ⚡ Fun fact **I am Funny**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
