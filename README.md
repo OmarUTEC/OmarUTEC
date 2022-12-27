@@ -59,3 +59,4 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarUTEC&&theme=tokyonight" alt="OmarUTEC" /></p>
 </div>
 
+**Ningún sistema es seguro**![deno](https://raw.githubusercontent.com/keagtorb/keagtorb/main/Res/dino.gif)
