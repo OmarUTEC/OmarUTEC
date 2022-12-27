@@ -7,11 +7,22 @@
 
 <p align="left"> <a href="https://twitter.com/CHjavieromar" target="blank"><img src="https://img.shields.io/twitter/follow/CHjavieromar?logo=twitter&style=for-the-badge" alt="CHjavieromar" /></a> </p>
 
+ - 🔭 I am currently studying at the university **UTEC**
+
+- 🌱 I'm currently learning **MongoDB**
+
+- ♟️ I'm a **Chess Player**
+
+- ⚡ Fun fact **I am Funny**
+
 <div align="center">
   <a href="https://github.com/OmarUTEC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarUTEC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarUTEC&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+  
+
 
 ### **Las que uso: 🛰😎** 
   
