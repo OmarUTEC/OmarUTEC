@@ -12,10 +12,6 @@
 
 <p align="left"> <a href="https://twitter.com/CHjavieromar" target="blank"><img src="https://img.shields.io/twitter/follow/CHjavieromar?logo=twitter&style=for-the-badge" alt="CHjavieromar" /></a> </p>
 
-<a href="https://github.com/OmarUTEC?tab=followers">
-   <img src="https://img.shields.io/github/followers/OmarUTEC?label=Followers&style=social" alt="followers-count">
-</a>
-
  - 🔭 I am currently studying at the university **UTEC**
 
 - 🌱 I'm currently learning **MongoDB**
