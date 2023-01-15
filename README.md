@@ -20,7 +20,7 @@
 
 - 🌱 I'm currently learning **MongoDB**
 
-- ♟️ I'm a **Chess Player**
+- ♟️ I'm a **Chess Player Professional**
 
 - ⚡ Fun fact **I am Funny**
 
