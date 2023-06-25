@@ -18,9 +18,9 @@
 
  - 🔭 I am currently studying at the university **UTEC**
 
-- 🌱 I'm currently learning **MongoDB**
+- 🌱 I'm currently learning **React**
 
-- ♟️ I'm a **Chess Player Professional**
+- ♟️ I'm a **Chess Player**
 
 - ⚡ Fun fact **I am Funny**
 
