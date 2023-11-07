@@ -91,7 +91,7 @@
   <a href="https://github.com/OmarUTEC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarUTEC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarUTEC&layout=compact&langs_count=7&theme=dark"/>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarUTEC&&theme=tokyonight" alt="OmarUTEC" /></p>
+   
 </div>
 
 ![deno](https://raw.githubusercontent.com/keagtorb/keagtorb/main/Res/dino.gif)
