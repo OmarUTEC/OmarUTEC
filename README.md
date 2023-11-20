@@ -95,6 +95,10 @@
 </div>
 
 ![deno](https://raw.githubusercontent.com/keagtorb/keagtorb/main/Res/dino.gif)
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=OmarUTEC&theme=tokyonight"/>
+</p>
  
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=green&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;Omar+CH+♟️;" style="width: 100%;">
 
