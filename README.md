@@ -22,8 +22,6 @@
 
 - ♟️ I'm a **Chess Player**
 
-- ⚡ Fun fact **I am Funny**
-
 
  ## 🛠️ Languajes and Tools 1
 
