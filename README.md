@@ -23,7 +23,7 @@
 - ♟️ I'm a **Chess Player**
 
 
- ## 🛠️ Languajes and Tools 1
+ ## 🛠️ Languajes
 
 <h3 align="left"> </h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
@@ -82,7 +82,7 @@
 </p>
  
  
- ## 🛠️ Tools 2
+ ## 🛠️ Tools 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,eclipse,github)](https://skillicons.dev)
 
 <div align="center">
