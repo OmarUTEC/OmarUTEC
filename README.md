@@ -96,7 +96,7 @@
    
 </div>
 
-![snake gif](dist/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/OmarUTEC/OmarUTEC/blob/output/github-contribution-grid-snake-blue.svg)
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=OmarUTEC&theme=tokyonight"/>
