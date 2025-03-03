@@ -96,7 +96,7 @@
    
 </div>
 
-![deno](https://raw.githubusercontent.com/keagtorb/keagtorb/main/Res/dino.gif)
+![snake gif](https://github.com/OmarUTEC/OmarUTEC/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=OmarUTEC&theme=tokyonight"/>
