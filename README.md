@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Omar Chavarria 🛰️</h1>
 <h3 align="center">Developer | Cibersecurity | Algorithms | 🇵🇪</h3>
-<img align="right" alt="Coding" width="400" src="github_image.png">
+<img align="right" alt="Coding" width="400" src="./image/github_image.png">
 
 
 
@@ -25,7 +25,7 @@
 
 <p>
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
-         width="80" height="auto"/>
+         width="70" height="auto"/>
 </p>
 
 
@@ -82,6 +82,9 @@
  
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+
+  <a href="https://www.amazon.com/-/es/" target="_blank" rel="noreferrer"> 
+ <img src="https://camo.githubusercontent.com/2d869f303f8110e509cfffdb4bab8cb8cd17667d1e624610cf1e16fe00422792/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d617773" alt="aws" width="40" height="40"/> </a> 
  
 </p>
  
