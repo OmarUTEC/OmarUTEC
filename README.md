@@ -1,109 +1,98 @@
+<!-- Header Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=Omar%20Chavarria&fontSize=50&animation=fadeIn&fontAlignY=35" alt="Header" />
+</p>
+
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=196209&width=435&lines=Hello+Fellow+%3C%2FDevelopers%3E" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=196209&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Cybersecurity+Enthusiast;Algorithms+%26+Deep+Learning;Chess+Player+♟️" alt="Typing SVG" />
+  </a>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <a href="https://twitter.com/CHjavieromar" target="blank">
+    <img src="https://img.shields.io/twitter/follow/CHjavieromar?logo=twitter&style=for-the-badge&color=1DA1F2&logoColor=white" alt="Twitter" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=CHjavieromar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Views" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Omar Chavarria 🛰️</h1>
-<h3 align="center">Developer | Cibersecurity | Algorithms | 🇵🇪</h3>
-<img align="right" alt="Coding" width="400" src="./image/github_image.png">
+---
 
+### 👨‍💻 About Me
 
+- 🎓 Studying **Software Engineering** at **UTEC** (Peru).
+- 🚀 Exploring the world of **React** and **Modern Web Architectures**.
+- 🛡️ Passionate about **Cybersecurity** and **Efficient Algorithms**.
+- ♟️ Competitive **Chess Player** - strategic thinking is my middleware.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CHjavieromar&label=Profile%20views&color=0e75b6&style=flat" alt="CHjavieromar" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/CHjavieromar" target="blank"><img src="https://img.shields.io/twitter/follow/CHjavieromar?logo=twitter&style=for-the-badge" alt="CHjavieromar" /></a> </p>
+### 🛠️ Tech Stack & Specialized Skills
 
- - 🔭 I am currently studying at the university **UTEC**
+<table align="center">
+  <tr>
+    <td valign="top" width="25%">
+      <h4 align="center">Frontend</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+      </p>
+    </td>
+    <td valign="top" width="25%">
+      <h4 align="center">Backend & DB</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,java,python,mongodb,mysql" />
+      </p>
+    </td>
+    <td valign="top" width="25%">
+      <h4 align="center">Languages & Embedded</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=cpp,c,arduino" />
+      </p>
+    </td>
+    <td valign="top" width="25%">
+      <h4 align="center">Infrastructure & Tools</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=aws,gcp,git,vscode,postman,linux" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-- 🌱 I'm currently learning **React**
+---
 
-- ♟️ I'm a **Chess Player**
-
-
-<p>
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
-         width="70" height="auto"/>
-</p>
-
-
-<h3 align="left"> </h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
- <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
- 
- 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
- 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
- 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
- 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- 
- <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-
- 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
- 
- <a href="https://www.java.com" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
- 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- 
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
- 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
- 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- 
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
- <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
- 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
- 
- <a href="https://postman.com" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
- 
- <a href="https://www.python.org" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- 
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-
-  <a href="https://www.amazon.com/-/es/" target="_blank" rel="noreferrer"> 
- <img src="https://camo.githubusercontent.com/2d869f303f8110e509cfffdb4bab8cb8cd17667d1e624610cf1e16fe00422792/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d617773" alt="aws" width="40" height="40"/> </a> 
- 
-</p>
- 
- 
- ## 🛠️ Tools 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,eclipse,github)](https://skillicons.dev)
+### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/OmarUTEC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarUTEC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarUTEC&layout=compact&langs_count=7&theme=dark"/>
-   
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarUTEC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarUTEC&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=OmarUTEC&theme=tokyonight&margin-w=15&no-bg=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-![snake gif](https://github.com/OmarUTEC/OmarUTEC/blob/output/github-contribution-grid-snake-blue.svg)
+---
+
+### 🐍 Activity & Contributions
+
+<div align="center">
+  <img src="https://github.com/OmarUTEC/OmarUTEC/blob/output/github-contribution-grid-snake-blue.svg" alt="Snake Animation" />
+</div>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=OmarUTEC&theme=tokyonight"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=green&size=20&center=true&vCenter=true&lines=Thanks+for+stopping+by!+👋;Keep+coding+and+solving!+🚀" alt="Footer SVG" />
 </p>
- 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=green&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;Omar+CH+♟️;" style="width: 100%;">
 
+<!-- Last Updated -->
+<p align="right">
+  <i>"Better code, better world."</i> - 🌎
+</p>
