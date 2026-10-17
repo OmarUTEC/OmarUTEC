@@ -18,7 +18,7 @@
 
 ### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/terminal.svg" width="22" /> [System.Bio]
 
-- **Role**: 🚀 **Full Stack Developer** from **PERU** 🇵🇪
+- **Role**: 🚀 **Data Scientist** from **PERU** 🇵🇪
 - **Education**: 🎓 Studying at **UTEC**
 - **Focus**: ⚡ React & Distributed Systems
 - **Security**: 🛡️ Vulnerability Analysis & Algorithms
